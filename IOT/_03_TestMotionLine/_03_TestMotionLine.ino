@@ -12,7 +12,7 @@ void Line_Notify(String message) ;
 int motion = 4;
 
 String message = "ALARM!!%E0%B8%A1%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%AB%E0%B8%A7";
-
+// string message is ALARM!!มีการเคลื่อนไหว //
 void setup() {
   pinMode(motion, INPUT);
 
